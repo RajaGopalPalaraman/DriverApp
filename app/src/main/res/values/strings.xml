@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="password">Password</string>
+    <string name="userID">UserID</string>
+    <string name="login">Login</string>
+    <string name="loginFieldsEmpty">UserID and Password fields can\'t be empty</string>
+    <string name="invalidLoginCredentials">UserID and Password doesn\'t match. Retry Login!!</string>
+    <string name="loginSuccess">Login Success!!</string>
+    <string name="somethingWentWrong">Something went wrong.Retry login!!</string>
+    <string name="update">Update</string>
+    <string name="refresh">Refresh</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBmMiQQVQCR0RGWMNcZP02EEuZWEJJfXv8</string>
+    <string name="gpsDisabled">Turn On Location!!</string>
+    <string name="loactionUpdated">Location Successfully Updated to Server</string>
+    <string name="locationUpdateFailed">Location Update Failed!!</string>
+</resources>
