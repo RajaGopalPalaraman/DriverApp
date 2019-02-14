@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Driver</string>
     <string name="password">Password</string>
-    <string name="userID">UserID</string>
+    <string name="userID">Username</string>
     <string name="login">Login</string>
     <string name="loginFieldsEmpty">UserID and Password fields can\'t be empty</string>
     <string name="invalidLoginCredentials">UserID and Password doesn\'t match. Retry Login!!</string>

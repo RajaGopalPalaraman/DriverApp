@@ -411,8 +411,11 @@ color bright_foreground_material_light
 color button_material_dark
 color button_material_light
 color colorAccent
+color colorDarkViolet
+color colorLoginWhite
 color colorPrimary
 color colorPrimaryDark
+color colorViolet
 color common_google_signin_btn_text_dark
 color common_google_signin_btn_text_dark_default
 color common_google_signin_btn_text_dark_disabled
@@ -548,6 +551,7 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen activity_horizontal_margin
 dimen activity_login_cliche_margin
+dimen activity_login_edit_text_height
 dimen activity_login_edit_text_padding
 dimen activity_login_edit_text_width
 dimen activity_login_margin
@@ -675,6 +679,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable bg
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -694,6 +699,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable dark_violet_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
@@ -713,6 +719,8 @@ drawable notify_panel_notification_icon_bg
 drawable rect_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable touch_background
+drawable violet_background
 id ALT
 id CTRL
 id FUNCTION
@@ -934,6 +942,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+mipmap car_tracker
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
