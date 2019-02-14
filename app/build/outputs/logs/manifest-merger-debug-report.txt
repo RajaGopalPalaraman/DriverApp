@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1043d64e6237f42a484b65c955c85b08\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\79bf15d091eaa140e29dd96a74812c43\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:17:1-38:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db0ca3422febd496825b0e7b7da32bb3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b5ce657f83a57e718900eb9d8becfd0e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\558eca57d0d1ac67860ad41d52ad3a74\AndroidManifest.xml:17:1-29:12
@@ -37,27 +37,27 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\raja-701
 MERGED from [com.android.support:print:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1271c7770223052eccaf34cae0804f45\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\78e2af86d15337e706dea76ccfad22d4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bca36b5e394253eb7790da3beb739e3a\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission-sdk-23#android.permission.INTERNET
@@ -81,11 +81,11 @@ ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:12:5-87
 	android:name
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:12:29-85
 application
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:14:5-38:19
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:14:5-39:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\79bf15d091eaa140e29dd96a74812c43\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\79bf15d091eaa140e29dd96a74812c43\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\558eca57d0d1ac67860ad41d52ad3a74\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\558eca57d0d1ac67860ad41d52ad3a74\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\d36f477ed2402a5318837788461b0c44\AndroidManifest.xml:7:5-20
@@ -103,45 +103,47 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\raja-7011\
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cec252bdb7967b7ab01e0495eb344dcd\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:18:9-48
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:19:9-48
 	android:icon
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:16:9-43
 	android:allowBackup
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:21:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:17:9-44
 activity#com.edot.driverapp.LoginActivity
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:22:9-30:20
 	android:screenOrientation
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:23:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:28:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:31:9-33:54
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:32:9-34:54
 	android:value
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:33:13-52
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:34:13-52
 	android:name
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:32:13-58
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:33:13-58
 activity#com.edot.driverapp.UpdateActivity
-ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:35:9-37:51
+ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:36:9-38:51
 	android:screenOrientation
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:37:13-49
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml:37:13-43
 uses-sdk
 INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
@@ -150,8 +152,8 @@ MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\raja-7011\.gradle
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1043d64e6237f42a484b65c955c85b08\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\79bf15d091eaa140e29dd96a74812c43\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\79bf15d091eaa140e29dd96a74812c43\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db0ca3422febd496825b0e7b7da32bb3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db0ca3422febd496825b0e7b7da32bb3\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b5ce657f83a57e718900eb9d8becfd0e\AndroidManifest.xml:20:5-44
@@ -225,15 +227,21 @@ INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 		ADDED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\AndroidProjects\DriverApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:23:5-79
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:23:22-76
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\0deb89a6125cda0c73901de31fc39643\AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\b77a7e04a532caed4b448e70dfd5c575\AndroidManifest.xml:34:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\raja-7011\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\558eca57d0d1ac67860ad41d52ad3a74\AndroidManifest.xml:23:9-26:75
 	android:exported

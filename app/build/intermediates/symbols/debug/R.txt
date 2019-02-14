@@ -351,23 +351,24 @@ int attr uiCompass 0x7f020151
 int attr uiMapToolbar 0x7f020152
 int attr uiRotateGestures 0x7f020153
 int attr uiScrollGestures 0x7f020154
-int attr uiTiltGestures 0x7f020155
-int attr uiZoomControls 0x7f020156
-int attr uiZoomGestures 0x7f020157
-int attr useViewLifecycle 0x7f020158
-int attr viewInflaterClass 0x7f020159
-int attr voiceIcon 0x7f02015a
-int attr windowActionBar 0x7f02015b
-int attr windowActionBarOverlay 0x7f02015c
-int attr windowActionModeOverlay 0x7f02015d
-int attr windowFixedHeightMajor 0x7f02015e
-int attr windowFixedHeightMinor 0x7f02015f
-int attr windowFixedWidthMajor 0x7f020160
-int attr windowFixedWidthMinor 0x7f020161
-int attr windowMinWidthMajor 0x7f020162
-int attr windowMinWidthMinor 0x7f020163
-int attr windowNoTitle 0x7f020164
-int attr zOrderOnTop 0x7f020165
+int attr uiScrollGesturesDuringRotateOrZoom 0x7f020155
+int attr uiTiltGestures 0x7f020156
+int attr uiZoomControls 0x7f020157
+int attr uiZoomGestures 0x7f020158
+int attr useViewLifecycle 0x7f020159
+int attr viewInflaterClass 0x7f02015a
+int attr voiceIcon 0x7f02015b
+int attr windowActionBar 0x7f02015c
+int attr windowActionBarOverlay 0x7f02015d
+int attr windowActionModeOverlay 0x7f02015e
+int attr windowFixedHeightMajor 0x7f02015f
+int attr windowFixedHeightMinor 0x7f020160
+int attr windowFixedWidthMajor 0x7f020161
+int attr windowFixedWidthMinor 0x7f020162
+int attr windowMinWidthMajor 0x7f020163
+int attr windowMinWidthMinor 0x7f020164
+int attr windowNoTitle 0x7f020165
+int attr zOrderOnTop 0x7f020166
 int bool abc_action_bar_embed_tabs 0x7f030000
 int bool abc_allow_stacked_button_bar 0x7f030001
 int bool abc_config_actionMenuItemAllCaps 0x7f030002
@@ -1468,7 +1469,7 @@ int styleable AppCompatTextView_fontFamily 7
 int styleable AppCompatTextView_lastBaselineToBottomHeight 8
 int styleable AppCompatTextView_lineHeight 9
 int styleable AppCompatTextView_textAllCaps 10
-int[] styleable AppCompatTheme { 0x01010057, 0x010100ae, 0x7f020000, 0x7f020001, 0x7f020002, 0x7f020003, 0x7f020004, 0x7f020005, 0x7f020006, 0x7f020007, 0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 0x7f02000c, 0x7f02000e, 0x7f02000f, 0x7f020010, 0x7f020011, 0x7f020012, 0x7f020013, 0x7f020014, 0x7f020015, 0x7f020016, 0x7f020017, 0x7f020018, 0x7f020019, 0x7f02001a, 0x7f02001b, 0x7f02001c, 0x7f02001d, 0x7f02001e, 0x7f020021, 0x7f020022, 0x7f020023, 0x7f020024, 0x7f020025, 0x7f02002c, 0x7f02003a, 0x7f02003b, 0x7f02003c, 0x7f02003d, 0x7f02003e, 0x7f02003f, 0x7f020044, 0x7f020045, 0x7f020050, 0x7f020051, 0x7f020058, 0x7f020059, 0x7f02005a, 0x7f02005b, 0x7f02005c, 0x7f02005d, 0x7f02005e, 0x7f02005f, 0x7f020060, 0x7f020062, 0x7f02006e, 0x7f020072, 0x7f020073, 0x7f020074, 0x7f020077, 0x7f020079, 0x7f02007c, 0x7f02007d, 0x7f02007e, 0x7f02007f, 0x7f020080, 0x7f020094, 0x7f02009c, 0x7f0200e1, 0x7f0200e2, 0x7f0200e5, 0x7f0200e6, 0x7f0200e7, 0x7f0200e8, 0x7f0200e9, 0x7f0200ea, 0x7f0200eb, 0x7f0200fc, 0x7f0200fd, 0x7f0200fe, 0x7f0200ff, 0x7f020101, 0x7f020107, 0x7f020108, 0x7f020109, 0x7f02010a, 0x7f02010e, 0x7f02010f, 0x7f020110, 0x7f020111, 0x7f020118, 0x7f020119, 0x7f020127, 0x7f02012a, 0x7f02012b, 0x7f02012c, 0x7f02012d, 0x7f02012e, 0x7f02012f, 0x7f020130, 0x7f020131, 0x7f020132, 0x7f020133, 0x7f020148, 0x7f020149, 0x7f02014a, 0x7f02014b, 0x7f020159, 0x7f02015b, 0x7f02015c, 0x7f02015d, 0x7f02015e, 0x7f02015f, 0x7f020160, 0x7f020161, 0x7f020162, 0x7f020163, 0x7f020164 }
+int[] styleable AppCompatTheme { 0x01010057, 0x010100ae, 0x7f020000, 0x7f020001, 0x7f020002, 0x7f020003, 0x7f020004, 0x7f020005, 0x7f020006, 0x7f020007, 0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 0x7f02000c, 0x7f02000e, 0x7f02000f, 0x7f020010, 0x7f020011, 0x7f020012, 0x7f020013, 0x7f020014, 0x7f020015, 0x7f020016, 0x7f020017, 0x7f020018, 0x7f020019, 0x7f02001a, 0x7f02001b, 0x7f02001c, 0x7f02001d, 0x7f02001e, 0x7f020021, 0x7f020022, 0x7f020023, 0x7f020024, 0x7f020025, 0x7f02002c, 0x7f02003a, 0x7f02003b, 0x7f02003c, 0x7f02003d, 0x7f02003e, 0x7f02003f, 0x7f020044, 0x7f020045, 0x7f020050, 0x7f020051, 0x7f020058, 0x7f020059, 0x7f02005a, 0x7f02005b, 0x7f02005c, 0x7f02005d, 0x7f02005e, 0x7f02005f, 0x7f020060, 0x7f020062, 0x7f02006e, 0x7f020072, 0x7f020073, 0x7f020074, 0x7f020077, 0x7f020079, 0x7f02007c, 0x7f02007d, 0x7f02007e, 0x7f02007f, 0x7f020080, 0x7f020094, 0x7f02009c, 0x7f0200e1, 0x7f0200e2, 0x7f0200e5, 0x7f0200e6, 0x7f0200e7, 0x7f0200e8, 0x7f0200e9, 0x7f0200ea, 0x7f0200eb, 0x7f0200fc, 0x7f0200fd, 0x7f0200fe, 0x7f0200ff, 0x7f020101, 0x7f020107, 0x7f020108, 0x7f020109, 0x7f02010a, 0x7f02010e, 0x7f02010f, 0x7f020110, 0x7f020111, 0x7f020118, 0x7f020119, 0x7f020127, 0x7f02012a, 0x7f02012b, 0x7f02012c, 0x7f02012d, 0x7f02012e, 0x7f02012f, 0x7f020130, 0x7f020131, 0x7f020132, 0x7f020133, 0x7f020148, 0x7f020149, 0x7f02014a, 0x7f02014b, 0x7f02015a, 0x7f02015c, 0x7f02015d, 0x7f02015e, 0x7f02015f, 0x7f020160, 0x7f020161, 0x7f020162, 0x7f020163, 0x7f020164, 0x7f020165 }
 int styleable AppCompatTheme_android_windowIsFloating 0
 int styleable AppCompatTheme_android_windowAnimationStyle 1
 int styleable AppCompatTheme_actionBarDivider 2
@@ -1823,7 +1824,7 @@ int[] styleable LoadingImageView { 0x7f020052, 0x7f02009a, 0x7f02009b }
 int styleable LoadingImageView_circleCrop 0
 int styleable LoadingImageView_imageAspectRatio 1
 int styleable LoadingImageView_imageAspectRatioAdjust 2
-int[] styleable MapAttrs { 0x7f020029, 0x7f020048, 0x7f020049, 0x7f02004a, 0x7f02004b, 0x7f02004c, 0x7f02004d, 0x7f02004e, 0x7f0200a3, 0x7f0200a4, 0x7f0200a5, 0x7f0200a6, 0x7f0200ec, 0x7f0200ef, 0x7f020151, 0x7f020152, 0x7f020153, 0x7f020154, 0x7f020155, 0x7f020156, 0x7f020157, 0x7f020158, 0x7f020165 }
+int[] styleable MapAttrs { 0x7f020029, 0x7f020048, 0x7f020049, 0x7f02004a, 0x7f02004b, 0x7f02004c, 0x7f02004d, 0x7f02004e, 0x7f0200a3, 0x7f0200a4, 0x7f0200a5, 0x7f0200a6, 0x7f0200ec, 0x7f0200ef, 0x7f020151, 0x7f020152, 0x7f020153, 0x7f020154, 0x7f020155, 0x7f020156, 0x7f020157, 0x7f020158, 0x7f020159, 0x7f020166 }
 int styleable MapAttrs_ambientEnabled 0
 int styleable MapAttrs_cameraBearing 1
 int styleable MapAttrs_cameraMaxZoomPreference 2
@@ -1842,11 +1843,12 @@ int styleable MapAttrs_uiCompass 14
 int styleable MapAttrs_uiMapToolbar 15
 int styleable MapAttrs_uiRotateGestures 16
 int styleable MapAttrs_uiScrollGestures 17
-int styleable MapAttrs_uiTiltGestures 18
-int styleable MapAttrs_uiZoomControls 19
-int styleable MapAttrs_uiZoomGestures 20
-int styleable MapAttrs_useViewLifecycle 21
-int styleable MapAttrs_zOrderOnTop 22
+int styleable MapAttrs_uiScrollGesturesDuringRotateOrZoom 18
+int styleable MapAttrs_uiTiltGestures 19
+int styleable MapAttrs_uiZoomControls 20
+int styleable MapAttrs_uiZoomGestures 21
+int styleable MapAttrs_useViewLifecycle 22
+int styleable MapAttrs_zOrderOnTop 23
 int[] styleable MenuGroup { 0x0101000e, 0x010100d0, 0x01010194, 0x010101de, 0x010101df, 0x010101e0 }
 int styleable MenuGroup_android_enabled 0
 int styleable MenuGroup_android_id 1
@@ -1897,7 +1899,7 @@ int styleable PopupWindowBackgroundState_state_above_anchor 0
 int[] styleable RecycleListView { 0x7f0200f8, 0x7f0200fb }
 int styleable RecycleListView_paddingBottomNoButtons 0
 int styleable RecycleListView_paddingTopNoTitle 1
-int[] styleable SearchView { 0x010100da, 0x0101011f, 0x01010220, 0x01010264, 0x7f020053, 0x7f020063, 0x7f020071, 0x7f020091, 0x7f020099, 0x7f0200a7, 0x7f020105, 0x7f020106, 0x7f02010c, 0x7f02010d, 0x7f02011f, 0x7f020124, 0x7f02015a }
+int[] styleable SearchView { 0x010100da, 0x0101011f, 0x01010220, 0x01010264, 0x7f020053, 0x7f020063, 0x7f020071, 0x7f020091, 0x7f020099, 0x7f0200a7, 0x7f020105, 0x7f020106, 0x7f02010c, 0x7f02010d, 0x7f02011f, 0x7f020124, 0x7f02015b }
 int styleable SearchView_android_focusable 0
 int styleable SearchView_android_maxWidth 1
 int styleable SearchView_android_inputType 2

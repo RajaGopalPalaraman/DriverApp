@@ -36,7 +36,8 @@
         android:roundIcon="@mipmap/car_tracker"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
         <activity
             android:name="com.edot.driverapp.LoginActivity"
             android:screenOrientation="portrait" >
@@ -54,6 +55,11 @@
         <activity
             android:name="com.edot.driverapp.UpdateActivity"
             android:screenOrientation="portrait" />
+        <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
